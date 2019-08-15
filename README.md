@@ -3,15 +3,14 @@ git clone http://git.code.oa.com/vcms/cctv-tim.git;
 基础设置
 
 ```yaml
-  152.136.47.44 auth.cctvtest.com
-  127.0.0.1 tt.cctvtest.com
+  152.136.47.44 my.curlsli.com
 ```
   node 12+
   
 run:
 
 ```bash
-  cd cctv-tim 
+  cd zeppelin-angular8.0 
   npm i
   npm run start
 ```
