@@ -1,0 +1,7 @@
+{
+  "/idp": {
+    "target": "https://auth.cctvtest.com:8085",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
